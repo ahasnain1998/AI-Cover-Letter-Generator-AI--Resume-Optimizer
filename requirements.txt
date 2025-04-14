@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+python-docx
+openai
+python-dotenv
+scikit-learn
+streamlit-extras
+transformers
+torch
+numpy
