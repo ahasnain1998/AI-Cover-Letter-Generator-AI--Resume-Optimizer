@@ -8,3 +8,5 @@ streamlit-extras
 transformers
 torch
 numpy
+sentence-transformers
+pandas
