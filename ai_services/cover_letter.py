@@ -1,7 +1,4 @@
-#import requests
-##API_KEY = "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"
-#API_KEY = "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"
-#API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
+
 
 import requests
 import os
